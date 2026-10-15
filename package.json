@@ -1,0 +1,6 @@
+{
+  "name": "chatbot-deployment-frontend-tests",
+  "private": true,
+  "scripts": { "test:js": "node --test tests/js/chatbox.test.js" },
+  "devDependencies": { "jsdom": "^25.0.1" }
+}
